@@ -11,7 +11,6 @@ import javax.persistence.*;
 import java.util.*;
 
 @Entity
-@Table(name = "Leave")
 @Data
 public class LeavePO {
 
